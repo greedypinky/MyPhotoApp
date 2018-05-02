@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPhotoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="pixabay_api_key">8593952-6333a3b18b0e37cc7a649d50a</string>
+</resources>
